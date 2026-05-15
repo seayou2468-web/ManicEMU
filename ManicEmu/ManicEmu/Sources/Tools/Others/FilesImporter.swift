@@ -8,6 +8,7 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 import UniformTypeIdentifiers
+import SkinKit
 import RealmSwift
 import ManicEmuCore
 import SSZipArchive

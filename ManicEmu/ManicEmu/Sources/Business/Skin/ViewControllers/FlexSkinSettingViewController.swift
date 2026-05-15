@@ -8,6 +8,7 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 import UIKit
+import SkinKit
 import ManicEmuCore
 import ZIPFoundation
 import RealmSwift
